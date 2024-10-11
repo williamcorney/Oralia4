@@ -4,7 +4,6 @@ import random
 from PyQt6.QtWidgets import QApplication, QMainWindow, QLabel, QPushButton, QVBoxLayout, QWidget
 from PyQt6.QtGui import QPixmap,QFont
 from PyQt6.QtCore import QSize, QTimer
-from PIL import Image
 
 
 # Database lookup function
